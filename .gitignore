@@ -1,0 +1,6 @@
+/cc_injector_youtube_timeout
+/.build/
+__pycache__/
+*.flv
+*.log
+.env
